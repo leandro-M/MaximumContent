@@ -1,0 +1,4 @@
+# User specific & automatically generated files #
+#################################################
+/front/node_modules
+*.mo
